@@ -1,5 +1,5 @@
 ### UBER Trip Analysis
-- **Description:** Analyzed UBER trip data from New York City for June 2024.
+- **Description:** Analyzed UBER trip data from New York City for June 2024. This Project contains 3 dashboards - Overview Analysis , Time Analysis and Details Dashboard that contains all the neccessary information and complete analysis of the dataset in a interactive dynamic way.
 - **Tools Used:** Power BI, DAX, SQL, Excel
 - **Highlights:**
   - Developed an interactive dashboard with advanced features like slicers, bookmarks, and filters.
