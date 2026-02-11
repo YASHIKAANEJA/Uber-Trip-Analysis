@@ -9,9 +9,9 @@
 ### PROJECT
 This Project contains 3 dashboards - Overview Analysis , Time Analysis and Details Dashboard that contains all the neccessary information and complete analysis of the dataset in a interactive dynamic way.
 
-Overview Analysis - https://github.com/YASHIKAANEJA/Uber-Trip-Analysis/blob/main/Overview%20Analysis%20Dashboard.png
-Time Analysis - https://github.com/YASHIKAANEJA/Uber-Trip-Analysis/blob/main/Time%20Analysis%20Dashboard.png
-Detail Dashboard - https://github.com/YASHIKAANEJA/Uber-Trip-Analysis/blob/main/Details%20Dashboard.png
+-> Overview Analysis - https://github.com/YASHIKAANEJA/Uber-Trip-Analysis/blob/main/Overview%20Analysis%20Dashboard.png
+-> Time Analysis - https://github.com/YASHIKAANEJA/Uber-Trip-Analysis/blob/main/Time%20Analysis%20Dashboard.png
+-> Detail Dashboard - https://github.com/YASHIKAANEJA/Uber-Trip-Analysis/blob/main/Details%20Dashboard.png
 
 ## 🛠 Skills
 - **Data Analysis:** Proficient in analyzing and interpreting complex datasets.
